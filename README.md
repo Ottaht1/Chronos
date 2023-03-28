@@ -1,2 +1,2 @@
 # Chronos
-Chronos is a simple web application that displays a digital clock with the current time, including hours, minutes, seconds, and AM/PM indicator.
+Chronos is a simple digital clock application built using HTML, CSS, and JavaScript. It displays the current time in a digital clock format.
